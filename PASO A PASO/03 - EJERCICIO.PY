@@ -2,7 +2,6 @@ print("BIENVENIDOS A MI APLICACIÓN CALCULATOR")
 print("PARA SALIR ESCRIBE SALIR")
 Titulo = "Las operacion para usar son la suma, resta, multiplicación y divición"
 print(Titulo.upper())
-
 resultado = ""
 while True:
     if not resultado:
